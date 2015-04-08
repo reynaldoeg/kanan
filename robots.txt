@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Disallow: /css
+Disallow: /font-awesome
+Disallow: /fonts
+Disallow: /img
+Disallow: /js
+Disallow: /unitegallery
+
+Sitemap: http://cursodeprimerosauxilios.mx/sitemap.xml
